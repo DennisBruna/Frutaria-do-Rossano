@@ -138,8 +138,8 @@ a:hover{
     border: 1px solid #fff;
     border-radius: 10px;
     background: #fff;
-    margin: 50px 245px 0 245px;
-    width: 75%;
+    margin: 50px 0px 0 150px;
+    width: 83%;
 }
 
 .a-suco img{
@@ -243,8 +243,8 @@ footer h2{
     border: 1px solid #fff;
     border-radius: 10px;
     background: #fff;
-    margin: 50px 245px 0 235px;
-    width: 1500px;
+    margin: 50px 0px 0 65px;
+    width: 90%;
     height: 450px;
 }
 
@@ -278,18 +278,18 @@ footer h2{
 .butao button{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 50px;
-    margin-left: 795px;
+    margin-left: 670px;
     width: 400px;
     text-align: center;
     align-items: center;
 }
 
 .algo-mais{
-    margin: 40px 40px 0 60px;
+    margin: 40px 40px 0 40px;
     background-color: #ffffff;
     border: 0.1px solid #fff;
     border-radius: 10px;
-    width: 1780px;
+    width: 80%px;
 }
 
 .algo-mais img{
